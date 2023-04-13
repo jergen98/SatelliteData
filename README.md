@@ -17,10 +17,14 @@ Project Organization
     │
     ├── notebooks          <- Kaggle notebooks.
     │
-    ├── references         <- http references for choosing this task
     │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
+    ├── references         <- references for choosing this task
+    │   ├── *              <- --
+    │   └── references.md  <- url containg a references
+    │
+    ├── reports            <- Different reports
+    │   ├── Why.md         <- Why this task
+    │   └── result.md      <- Result
     │
     └── test_environment   <- check python version
 
