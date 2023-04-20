@@ -17,19 +17,26 @@ Project Organization
     │
     ├── notebooks          <- Kaggle notebooks.
     │
-    │
     ├── references         <- references for choosing this task
     │   ├── *              <- --
     │   └── references.md  <- url containg a references
     │
     ├── reports            <- Different reports
-    │   ├── Why.md         <- Why this task
-    │   └── result.md      <- Result
+    │   ├── Reproduce.md   <- Reproduce the code
+    │   └── Report.md      <- The report
     │
     └── test_environment   <- check python version
 
 
 --------
 
+
+Important .md files
+------------
+How to reproduce: [Reproduce.md](/reports/Reproduce.md)
+Report: [Report.md](/reports/Report.md)
+
+
+------------
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
 

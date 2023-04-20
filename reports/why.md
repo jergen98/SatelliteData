@@ -1,4 +1,0 @@
-WHY?
-==============================
-
-The idea for this project was inspired by a recent effort by French authorities who used satellite images and artificial intelligence to find unregistered swimming pools. As reported by Jaron Schneider, the French tax office worked together with Google and a French IT firm called Capgemini to develop an AI system. This system analyzes satellite pictures to spot undeclared pools and then cross-references them with property and tax databases. The technology has been quite successful, finding over 20,000 unregistered private pools and potentially recovering millions of euros in unpaid taxes. By using FastAI to develop a similar model for detecting swimming pools in satellite images, I wanted to see if I could make a simple model like the one used by the French authorities. 
