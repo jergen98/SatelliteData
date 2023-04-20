@@ -14,11 +14,13 @@ Project Organization
     │   └── validation     <- Validattion data set
     │
     ├── models             <- Trained and serialized model
+    │   ├── Early-Model.pkl             <- An early model thats not relevant anymore
+    │   └── Pool-Detection-Model.pkl    <- The latest model that is best
     │
     ├── notebooks          <- Kaggle notebooks.
     │
-    ├── references         <- references for choosing this task
-    │   └── references.md  <- url containg a references
+    ├── references         <- references 
+    │   └── references.md  <- url containg references
     │
     ├── reports            <- Different reports
     │   ├── Reproduce.md   <- Reproduce the code
