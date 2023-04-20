@@ -18,7 +18,6 @@ Project Organization
     ├── notebooks          <- Kaggle notebooks.
     │
     ├── references         <- references for choosing this task
-    │   ├── *              <- --
     │   └── references.md  <- url containg a references
     │
     ├── reports            <- Different reports
@@ -34,6 +33,7 @@ Project Organization
 Important .md files
 ------------
 How to reproduce: [Reproduce.md](/reports/Reproduce.md)
+
 Report: [Report.md](/reports/Report.md)
 
 
