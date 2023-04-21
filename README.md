@@ -18,6 +18,9 @@ Project Organization
     │   └── Pool-Detection-Model.pkl    <- The latest model that is best
     │
     ├── notebooks          <- Kaggle notebooks.
+    │   ├── createmodel.ipynb   <- Create a model
+    │   ├── runmodel.ipynb      <- Run a gradio application with the model
+    │   └── validatemodel.ipynb <- Validate the model
     │
     ├── references         <- references 
     │   └── references.md  <- url containg references
